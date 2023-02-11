@@ -1,0 +1,15 @@
+/Users/juliaglocka/Projects/TrainingSpace/TrainingSpace/bin/Debug/net7.0/TrainingSpace
+/Users/juliaglocka/Projects/TrainingSpace/TrainingSpace/bin/Debug/net7.0/TrainingSpace.deps.json
+/Users/juliaglocka/Projects/TrainingSpace/TrainingSpace/bin/Debug/net7.0/TrainingSpace.runtimeconfig.json
+/Users/juliaglocka/Projects/TrainingSpace/TrainingSpace/bin/Debug/net7.0/TrainingSpace.dll
+/Users/juliaglocka/Projects/TrainingSpace/TrainingSpace/bin/Debug/net7.0/TrainingSpace.pdb
+/Users/juliaglocka/Projects/TrainingSpace/TrainingSpace/obj/Debug/net7.0/TrainingSpace.csproj.AssemblyReference.cache
+/Users/juliaglocka/Projects/TrainingSpace/TrainingSpace/obj/Debug/net7.0/TrainingSpace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliaglocka/Projects/TrainingSpace/TrainingSpace/obj/Debug/net7.0/TrainingSpace.AssemblyInfoInputs.cache
+/Users/juliaglocka/Projects/TrainingSpace/TrainingSpace/obj/Debug/net7.0/TrainingSpace.AssemblyInfo.cs
+/Users/juliaglocka/Projects/TrainingSpace/TrainingSpace/obj/Debug/net7.0/TrainingSpace.csproj.CoreCompileInputs.cache
+/Users/juliaglocka/Projects/TrainingSpace/TrainingSpace/obj/Debug/net7.0/TrainingSpace.dll
+/Users/juliaglocka/Projects/TrainingSpace/TrainingSpace/obj/Debug/net7.0/refint/TrainingSpace.dll
+/Users/juliaglocka/Projects/TrainingSpace/TrainingSpace/obj/Debug/net7.0/TrainingSpace.pdb
+/Users/juliaglocka/Projects/TrainingSpace/TrainingSpace/obj/Debug/net7.0/TrainingSpace.genruntimeconfig.cache
+/Users/juliaglocka/Projects/TrainingSpace/TrainingSpace/obj/Debug/net7.0/ref/TrainingSpace.dll
