@@ -1,0 +1,15 @@
+/Users/juliaglocka/Projects/Inception/Inception/bin/Debug/net7.0/Inception
+/Users/juliaglocka/Projects/Inception/Inception/bin/Debug/net7.0/Inception.deps.json
+/Users/juliaglocka/Projects/Inception/Inception/bin/Debug/net7.0/Inception.runtimeconfig.json
+/Users/juliaglocka/Projects/Inception/Inception/bin/Debug/net7.0/Inception.dll
+/Users/juliaglocka/Projects/Inception/Inception/bin/Debug/net7.0/Inception.pdb
+/Users/juliaglocka/Projects/Inception/Inception/obj/Debug/net7.0/Inception.csproj.AssemblyReference.cache
+/Users/juliaglocka/Projects/Inception/Inception/obj/Debug/net7.0/Inception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliaglocka/Projects/Inception/Inception/obj/Debug/net7.0/Inception.AssemblyInfoInputs.cache
+/Users/juliaglocka/Projects/Inception/Inception/obj/Debug/net7.0/Inception.AssemblyInfo.cs
+/Users/juliaglocka/Projects/Inception/Inception/obj/Debug/net7.0/Inception.csproj.CoreCompileInputs.cache
+/Users/juliaglocka/Projects/Inception/Inception/obj/Debug/net7.0/Inception.dll
+/Users/juliaglocka/Projects/Inception/Inception/obj/Debug/net7.0/refint/Inception.dll
+/Users/juliaglocka/Projects/Inception/Inception/obj/Debug/net7.0/Inception.pdb
+/Users/juliaglocka/Projects/Inception/Inception/obj/Debug/net7.0/Inception.genruntimeconfig.cache
+/Users/juliaglocka/Projects/Inception/Inception/obj/Debug/net7.0/ref/Inception.dll
