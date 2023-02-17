@@ -1,0 +1,15 @@
+/Users/juliaglocka/Projects/CodeWarsKyuEight/CodeWarsKyuEight/bin/Debug/net7.0/CodeWarsKyuEight
+/Users/juliaglocka/Projects/CodeWarsKyuEight/CodeWarsKyuEight/bin/Debug/net7.0/CodeWarsKyuEight.deps.json
+/Users/juliaglocka/Projects/CodeWarsKyuEight/CodeWarsKyuEight/bin/Debug/net7.0/CodeWarsKyuEight.runtimeconfig.json
+/Users/juliaglocka/Projects/CodeWarsKyuEight/CodeWarsKyuEight/bin/Debug/net7.0/CodeWarsKyuEight.dll
+/Users/juliaglocka/Projects/CodeWarsKyuEight/CodeWarsKyuEight/bin/Debug/net7.0/CodeWarsKyuEight.pdb
+/Users/juliaglocka/Projects/CodeWarsKyuEight/CodeWarsKyuEight/obj/Debug/net7.0/CodeWarsKyuEight.csproj.AssemblyReference.cache
+/Users/juliaglocka/Projects/CodeWarsKyuEight/CodeWarsKyuEight/obj/Debug/net7.0/CodeWarsKyuEight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliaglocka/Projects/CodeWarsKyuEight/CodeWarsKyuEight/obj/Debug/net7.0/CodeWarsKyuEight.AssemblyInfoInputs.cache
+/Users/juliaglocka/Projects/CodeWarsKyuEight/CodeWarsKyuEight/obj/Debug/net7.0/CodeWarsKyuEight.AssemblyInfo.cs
+/Users/juliaglocka/Projects/CodeWarsKyuEight/CodeWarsKyuEight/obj/Debug/net7.0/CodeWarsKyuEight.csproj.CoreCompileInputs.cache
+/Users/juliaglocka/Projects/CodeWarsKyuEight/CodeWarsKyuEight/obj/Debug/net7.0/CodeWarsKyuEight.dll
+/Users/juliaglocka/Projects/CodeWarsKyuEight/CodeWarsKyuEight/obj/Debug/net7.0/refint/CodeWarsKyuEight.dll
+/Users/juliaglocka/Projects/CodeWarsKyuEight/CodeWarsKyuEight/obj/Debug/net7.0/CodeWarsKyuEight.pdb
+/Users/juliaglocka/Projects/CodeWarsKyuEight/CodeWarsKyuEight/obj/Debug/net7.0/CodeWarsKyuEight.genruntimeconfig.cache
+/Users/juliaglocka/Projects/CodeWarsKyuEight/CodeWarsKyuEight/obj/Debug/net7.0/ref/CodeWarsKyuEight.dll
